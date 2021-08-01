@@ -10,11 +10,12 @@ Digital Clock  designed and created by HTML ,Tailwind CSS and Javascript
   <li>Javascript</li>
 </ol>
 
-## Demo: https://digital-clock-page.netlify.app/
+## Demo: https://digital-clock01.netlify.app/
 
 ## Project Screenshots:-
 
 ### Desktop view:
-
+<img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627807740/project/Screenshot_49_lfvi7w.png" width="500px">
 
 ### Mobile view:
+<img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627807727/project/Screenshot_50_lmf7ij.png" height="500px">
